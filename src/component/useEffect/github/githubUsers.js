@@ -1,6 +1,5 @@
 import React from 'react'
 import { FcApproval } from "react-icons/fc";
-import { FaGithub } from "react-icons/fa";
 
 const githubUsers = ({users}) => {
     return (
